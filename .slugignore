@@ -1,0 +1,7 @@
+*.wav
+*.zip
+*.git
+/.git
+/logs
+/_pycache_
+/MySqlScripts/_pycache_
